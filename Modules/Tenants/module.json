@@ -1,0 +1,16 @@
+{
+    "name": "Tenants",
+    "alias": "tenants",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Tenants\\Providers\\TenantsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

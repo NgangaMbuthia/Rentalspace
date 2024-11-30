@@ -1,0 +1,21 @@
+{
+  "name": "qooetu",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "*",
+    "gulp-uglify": "*",
+    "gulp-concat": "*",
+    "gulp-concat-css": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-minify-css": "*",
+    "gulp-rename": "*"
+  },
+  "description": "Powerful shell for rapidly deploying your WordPress projects.",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Meck",
+  "license": "ISC"
+}

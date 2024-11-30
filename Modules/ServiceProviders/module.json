@@ -1,0 +1,16 @@
+{
+    "name": "ServiceProviders",
+    "alias": "serviceproviders",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\ServiceProviders\\Providers\\ServiceProvidersServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
